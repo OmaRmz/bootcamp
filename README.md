@@ -1,2 +1,1 @@
-# bootcamp
-Chirps CRUD
+# Chirps CRUD
